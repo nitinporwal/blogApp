@@ -1,9 +1,10 @@
 i.icon {
-    font-size: 2em;
+    font-size: 4em;
 }
 
 .container.main {
-    margin-top:6.0em;
+    margin-top:5.0em;
+    padding: 5px;
 }
 
 #delete {
